@@ -1,4 +1,7 @@
 
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Dushki_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=Dushki_mslearn-tailspin-spacegame-web)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
